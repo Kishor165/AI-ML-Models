@@ -7,6 +7,7 @@ These projects explore various domains such as classification, clustering, recom
 ## 🗂️ Project Directory
 
 
+
 | Project Name                    | Description                                                         |
 | ------------------------------- | ------------------------------------------------------------------- |
 | **AI-chatbox**                  | Simple AI chatbox using NLP and machine learning responses.         |

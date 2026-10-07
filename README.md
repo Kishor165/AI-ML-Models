@@ -46,7 +46,6 @@ These projects explore various domains such as classification, clustering, recom
 - Python 🐍
 
 **Libraries & Frameworks**  
-
 - Scikit-learn (ML models & pipelines)  
 - Pandas, NumPy (data manipulation & computation)  
 - Matplotlib, Seaborn (visualization)  

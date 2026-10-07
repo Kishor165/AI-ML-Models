@@ -3,8 +3,6 @@ Welcome to my collection of AI and Machine Learning mini-projects, developed dur
 These projects explore various domains such as classification, clustering, recommendation systems, predictive modeling, ETL pipelines, automation scripts, and real-time applications.
 
 ## 🗂️ Project Directory
-
-
 | Project Name                    | Description                                                         |
 | ------------------------------- | ------------------------------------------------------------------- |
 | **AI-chatbox**                  | Simple AI chatbox using NLP and machine learning responses.         |

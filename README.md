@@ -41,8 +41,6 @@ These projects explore various domains such as classification, clustering, recom
 | **Translator (Transelator)**    | Simple ML-powered language translation app.                         |
 
 ## 🧰 Technologies Used
-
-
 **Languages**  
 
 - Python 🐍

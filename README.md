@@ -1,6 +1,5 @@
 ## 🧠 AI & Machine Learning Training Projects
 
-
 Welcome to my collection of AI and Machine Learning mini-projects, developed during my training and learning journey.
 These projects explore various domains such as classification, clustering, recommendation systems, predictive modeling, ETL pipelines, automation scripts, and real-time applications.
 

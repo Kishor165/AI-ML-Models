@@ -53,7 +53,6 @@ These projects explore various domains such as classification, clustering, recom
 - OpenCV (computer vision)
 
 **Tools**  
-
 - Jupyter Notebook  
 - VS Code  
 - GitHub

@@ -43,7 +43,6 @@ These projects explore various domains such as classification, clustering, recom
 
 ## 🧰 Technologies Used
 **Languages**  
-
 - Python 🐍
 
 **Libraries & Frameworks**  

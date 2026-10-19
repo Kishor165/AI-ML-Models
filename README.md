@@ -48,7 +48,6 @@ These projects explore various domains such as classification, clustering, recom
 - Matplotlib, Seaborn (visualization)  
 - TensorFlow, PyTorch (deep learning)  
 - OpenCV (computer vision)
-
 **Tools**  
 - Jupyter Notebook  
 - VS Code  

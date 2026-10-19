@@ -38,7 +38,6 @@ These projects explore various domains such as classification, clustering, recom
 | **Text Project**                | NLP text analysis project.                                          |
 | **Text Classification Project** | Text classification using NLP & ML models.                          |
 | **Translator (Transelator)**    | Simple ML-powered language translation app.                         |
-
 ## 🧰 Technologies Used
 **Languages**  
 - Python 🐍
